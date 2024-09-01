@@ -13,6 +13,8 @@ B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
 
+## Answer: Download the Dart SDK(B)
+
 
 2. Which command verifies the Dart installation on macOS?
 
@@ -20,6 +22,8 @@ A) dart --install
 B) dart --check
 C) dart --verify
 D) dart --version
+
+## Answer: Dart --version(D)
 
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
@@ -29,6 +33,7 @@ B) Update your PATH
 C) Run Flutter Doctor
 D) Create a new Flutter project
 
+## Answer: Update your PATH(B)
 
 4. What command is used to run a newly created Flutter app?
 
@@ -37,6 +42,7 @@ B) flutter build
 C) flutter run
 D) flutter init
 
+## Answer: flutter run (C)
 
 #Python Installation
 
@@ -47,12 +53,16 @@ B) Download Python from the official website
 C) Open the terminal and type sudo apt install python
 D) Install pip manually
 
+## Answer: Download python from official website(B)
+
 Which option should you ensure is checked during Python installation on Windows?
 
 A) Install with default settings
 B) Install to a custom directory
 C) Add Python to PATH
 D) Install all available features
+
+## Answer: Add python to PATH(C)
 
 How do you verify Python installation on any system?
 
@@ -61,6 +71,8 @@ B) By restarting your computer
 C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
 
+## Answer: By running python --version(A)
+
 What command is used to install pip on macOS and Linux?
 
 A) sudo install pip
@@ -68,12 +80,16 @@ B) pip install python
 C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
 
+## Answer: curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py(C)
+
 What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder
 B) To install Python in a different directory
 C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
+
+## Answer: To separate project dependencies and avoid conflicts
 
 #MySQL Installation
 
